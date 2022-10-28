@@ -1,2 +1,2 @@
-# ITE---Sample-Project
+# ITE-Sample-Project
 Student Weekly Task
